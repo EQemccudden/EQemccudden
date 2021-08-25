@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EQemccudden
 - 👀 I’m interested in all things cloud and Kubernetes
-- 🌱 I’m currently learning terraform and k8 cloud development kit
+- 🌱 I’m currently learning terraform and K8 Cloud Development Kit
 
 
 <!---
